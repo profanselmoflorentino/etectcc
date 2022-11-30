@@ -1,0 +1,67 @@
+body{
+    background-image:url("../img/galaxia.png");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+#menu{
+    width: 1000px;
+    height: 30px;
+    position: relative;
+    margin: auto;
+    background-color: blueviolet;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+#corpo{
+    width: 1000px;
+    height: 700px;
+    position: relative;
+    margin: auto;
+    margin-top: 5px;
+    background-color: rgb(49, 49, 49);
+    padding-top: 10px;
+    padding-left: 5px;
+    color: aliceblue;
+}
+#rodape{
+    width: 1000px;
+    height: 30px;
+    position: relative;
+    margin: auto;
+    margin-top: 5px;
+    background-color:darkcyan;
+    padding-top: 10px;
+    padding-left: 5px;
+    text-align: center;
+}
+
+#menu2{
+    width: 1000px;
+    height: 30px;
+    position: relative;
+    margin: auto;
+    background-color: blueviolet;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+#menucorpo{
+    width: 1000px;
+    height: 700px;
+    position: relative;
+    margin: auto;
+    margin-top: 5px;
+    background-color: rgb(49, 49, 49);
+    padding-top: 10px;
+    padding-left: 5px;
+    color: aliceblue;
+}
+#resultado{
+    text-align: center;
+}
+#botao{
+    width: 100px;
+}
+#botao2{
+    margin-left: 8%;
+    width: 100px;
+}
